@@ -78,6 +78,7 @@ a.header-links-text:hover {
     background-color: #000000;
     color: #ffffff;
     border-radius: 12px;
+    border: none;
 }
 .header-buttons-signin {
     cursor: pointer;
@@ -88,6 +89,7 @@ a.header-links-text:hover {
     color: #ffffff;
     border-radius: 12px;
     font-weight: bold;
+    border: none;
 }
 button.header-buttons-signin:hover {
     background-color: #ffffff;
